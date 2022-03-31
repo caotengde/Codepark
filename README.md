@@ -20,7 +20,13 @@ like that
 advantage
 - fast
 - clear
-
+```c
+#include <stdio.h>
+int main(){
+ printf("hello world!");
+ }
+ ```
+   
 #### _c++_
 advantage
 - rich resporitory
