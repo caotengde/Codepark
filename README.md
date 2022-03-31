@@ -26,7 +26,8 @@ int main(){
  printf("hello world!");
  }
  ```
-   
+> this is c
+
 #### _c++_
 advantage
 - rich resporitory
